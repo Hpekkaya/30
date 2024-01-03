@@ -26,8 +26,17 @@ let text=""
 
 // for (let x of vehicles)
 // {text += x + "\n";} 
+// console.log(text)
+
+// const person = {
+//     name: "Mustafa",
+//     age: 25,
+//     location: "Ankara",
+//     like: "Pizza"
+// }
+// const {name: name1, age, like} = person
+// console.log(name1,age, like)
 
 
 
 
-console.log(text)
